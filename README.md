@@ -1,6 +1,6 @@
 # README: ETL Pipelines Tutorial | World Bank Datasets
 
-This notebook documents my learning journey through the ETL (Extract, Transform, Load) process using World Bank datasets. This work is inspired by and builds upon the knowledge gained from Udacity's Data Scientist Nanodegree program, which significantly enhanced my understanding of advanced data science concepts, particularly PySpark. I extend my sincere gratitude to Udacity for providing such high-quality educational content.
+This notebook documents my learning journey through the ETL (Extract, Transform, Load) process using World Bank datasets. 
 
 **ETL stands for Extract, Transform, Load.**
 
